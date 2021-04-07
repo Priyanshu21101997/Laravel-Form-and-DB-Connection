@@ -1,0 +1,23 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 80%;
+    background-color: rgb(153, 97, 206);
+    padding: 34px;
+    margin: 23px;
+}
+.container h3,p{
+    text-align: center;
+}
+
+input,textarea{
+font-size: 30px;
+width: 80%;
+margin: 12px;
+padding:7px;
+
+}
